@@ -1,6 +1,4 @@
-# honey-pie
-happy birthday
-<!DOCTYPE html>
+#
 <html>
 <head>
 	<title>HAPPY BIRTHDAY</title>
